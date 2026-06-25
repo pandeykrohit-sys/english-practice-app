@@ -1,5 +1,3 @@
-<img width="777" height="896" alt="Screenshot-2" src="https://github.com/user-attachments/assets/8168cb7b-d7d5-4513-9b01-153441880f54" />
-<img width="938" height="1173" alt="Screenshot-1" src="https://github.com/user-attachments/assets/acdd5afd-71fb-45ea-9088-ef9823315281" />
 # English Practice App
 
 This is a 21-day English learning application designed to improve communication, grammar, and confidence.
@@ -22,4 +20,6 @@ This app helps users improve spoken English through daily exercises, corrections
 
 ## 👤 Author
 Rohit Pandey
-``
+
+<img width="938" height="1173" alt="Screenshot-1" src="https://github.com/user-attachments/assets/acdd5afd-71fb-45ea-9088-ef9823315281" />
+<img width="777" height="896" alt="Screenshot-2" src="https://github.com/user-attachments/assets/8168cb7b-d7d5-4513-9b01-153441880f54" />
