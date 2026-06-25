@@ -32,3 +32,30 @@ Many people struggle with daily English communication, grammar mistakes, and con
 ## ✅ Solution
 
 This app provides a structured 21-day program with sentence correction, listening practice, and real-life conversations to improve communication skills step-by-step.
+
+## 👥 Who can use this
+
+- Customer service professionals  
+- Students preparing for interviews  
+- Employees improving communication skills  
+- Beginners learning spoken English  
+
+---
+
+## 📚 What I learned
+
+- How to design a structured learning system  
+- How to improve user experience for learners  
+- Using AI tools to build real applications without coding  
+- Importance of daily practice in skill improvement  
+
+---
+
+## 🚀 Future Improvements
+
+- Add user progress tracking  
+- Add login system  
+- Add voice recording feature  
+- Add personalized learning paths  
+
+Updated README with use case and improvements
