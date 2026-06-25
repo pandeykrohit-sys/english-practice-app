@@ -20,11 +20,14 @@ This app helps users improve spoken English through daily exercises, corrections
 
 ## 👤 Author
 Rohit Pandey
- - Business Operations, AI tools, and process improvement
+-Business Operations, AI tools, and process improvement
 
 
 
+## 📸 Screenshots
+### Dashboard View
 <img width="938" height="1173" alt="Dashboard View-ScreenShot-1" src="https://github.com/user-attachments/assets/9b0586b3-7f0f-4888-94c3-f705cf9a35b8" />
+### Sentence Correction Feature
 <img width="777" height="896" alt="Dashboard View-ScreenShot-2" src="https://github.com/user-attachments/assets/227fca80-4bef-4966-a648-2cc20340ed59" />
 
 
