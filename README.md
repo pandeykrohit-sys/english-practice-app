@@ -23,3 +23,12 @@ Rohit Pandey
 
 <img width="938" height="1173" alt="Filename-1" src="https://github.com/user-attachments/assets/acdd5afd-71fb-45ea-9088-ef9823315281" />
 <img width="777" height="896" alt="Filename-2" src="https://github.com/user-attachments/assets/8168cb7b-d7d5-4513-9b01-153441880f54" />
+
+
+## ❗ Problem
+
+Many people struggle with daily English communication, grammar mistakes, and confidence in conversations.
+
+## ✅ Solution
+
+This app provides a structured 21-day program with sentence correction, listening practice, and real-life conversations to improve communication skills step-by-step.
